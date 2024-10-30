@@ -12,14 +12,15 @@ Nos últimos meses, percebi uma grande quantidade de perguntas na comunidade sob
 
 - **Electron**: Framework para criar aplicações desktop com tecnologias web.
 - **React**: Biblioteca JavaScript para construir interfaces de usuário.
-- **Tailwind CSS**: Framework CSS para estilização rápida e eficiente.
+- **React router dom**: Biblioteca para administrar rotas da aplicação.
+- **Tailwind**: Framework CSS para estilização rápida.
 - **Express**: Framework web para Node.js, utilizado para construir APIs e gerenciar rotas.
 
 ## Como Começar
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/electron-react-server-kit.git
+   git clone https://github.com/Wesley-Fernandes/electron-react-server-kit
    ```
 
 2. Navegue até o diretório do projeto:
@@ -29,21 +30,21 @@ Nos últimos meses, percebi uma grande quantidade de perguntas na comunidade sob
 
 3. Instale as dependências:
    ```bash
-   npm install
+   bun install
    ```
 
 4. Inicie o aplicativo:
    ```bash
-   npm start
+   bun dev
    ```
 
 ## Links Úteis
 
 Aqui estão algumas postagens que discutem dúvidas comuns sobre a configuração de projetos de Express no ElectronJS:
 
-- [Como configurar Express no Electron](link-para-postagem-1)
-- [Integrando React e Electron](link-para-postagem-2)
-- [Usando Tailwind com Electron](link-para-postagem-3)
+- [Electron + Express?](https://cursos.alura.com.br/forum/topico-electron-express-40044)
+- [How to use Electron with an existing Express application](https://stackoverflow.com/questions/53346562/how-to-use-electron-with-an-existing-express-application)
+- [Opening an Express App (Nodejs) with Electron](https://stackoverflow.com/questions/61549474/opening-an-express-app-nodejs-with-electron)
 
 ## Contribuições
 
