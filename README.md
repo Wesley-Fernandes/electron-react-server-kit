@@ -1,6 +1,3 @@
-Claro! Aqui está um modelo de README que você pode usar e adaptar para o seu projeto **electron-react-server-kit**:
-
-```markdown
 # Electron React Server Kit
 
 ## Descrição
@@ -55,6 +52,3 @@ Sinta-se à vontade para contribuir com este projeto! Se você tiver sugestões 
 ## Licença
 
 Este projeto está licenciado sob a MIT License.
-```
-
-Sinta-se à vontade para adicionar ou modificar seções conforme necessário!
